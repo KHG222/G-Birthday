@@ -1,0 +1,23 @@
+*{
+
+    font-family: Cursive, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:50px;
+}
+.cake{
+    height:500px;
+    width:500px;
+}
+.MrsGBirthday{
+    background-color: blue;
+}
+.index{
+    background-color: yellow;
+}
+button{
+    font-size: 50px;
+    border-radius: 12px;
+}
+h2{
+	font-size:100px;
+    text-transform:uppercase;
+}
